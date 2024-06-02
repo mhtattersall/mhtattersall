@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Michael, welcome to my GitHub 
+## Hi there 👋 I'm Michael, welcome to my GitHub 
 
-## About Me 🚀   
+### About Me 🚀   
 I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> 
 I’m currently completing data engineering certificates with MIT xPro and AWS. </br>
 Feel free to contact me if you want to collborate! </br></br>
@@ -12,7 +12,7 @@ How to reach me: mhtapple@gmail.com <a href="https://www.linkedin.com/in/michael
 <b><i> Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev to raise funds and awarenes for Prostate Cancer UK.  I'm still recovering! <b><i> 
  
 
-## ⚡ Technologies I love and use
+### ⚡ Technologies I love and use
   
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
