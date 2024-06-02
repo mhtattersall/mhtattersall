@@ -8,8 +8,7 @@ Feel more than welcome to contact me if you are a sports management student in n
 How to reach me: mhtapple@gmail.com <a href="https://www.linkedin.com/in/michaelhtattersall/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a> </br> </br>
-Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev to raise funds and awarenes for Prostate Cancer UK. </br></br>
-<b><i> I'm still recovering! 
+<b><i> Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev to raise funds and awarenes for Prostate Cancer UK.  I'm still recovering! <b><i> 
 
 
 
