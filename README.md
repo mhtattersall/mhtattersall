@@ -1,6 +1,6 @@
 <hr />
 
-<a href="https://www.linkedin.com/in/michaelhtatterall/">
+<a href="https://www.linkedin.com/in/michaelhtattersall/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:mhtapple@gmail.com">
