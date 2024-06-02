@@ -6,7 +6,7 @@
 👨🏼‍💻 I'm also a **professional football administrator** with a FIFA Masters and a former CEO of The National League in England. </br></br>
 👯 Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev to raise funds and awarenes for Prostate Cancer UK. </br> </br>
 💬 Feel more than welcome to contact me if you are a sports management student in need of help with your studies! </br></br>
-📫 How to reach me: mhtapple@gmail.com <a href="https://www.linkedin.com/in/michaelhtattersall/">
+How to reach me: mhtapple@gmail.com <a href="https://www.linkedin.com/in/michaelhtattersall/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a> </br> </br>
 
