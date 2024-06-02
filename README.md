@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Michael, welcome to my GitHub 
 
 ## About Me 🚀   
-I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. 
+I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> 
 I’m currently completing data engineering certificates with MIT xPro and AWS. </br> </br>
-I'm also a **professional football administrator** with a FIFA Masters and a former CEO of The National League in England. 
-Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev to raise funds and awarenes for Prostate Cancer UK. 
+I'm also a **professional football administrator** with a FIFA Masters and a former CEO of The National League in England. </br>
+Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev to raise funds and awarenes for Prostate Cancer UK. </br>
 Feel more than welcome to contact me if you are a sports management student in need of help with your studies! </br></br>
 How to reach me: mhtapple@gmail.com <a href="https://www.linkedin.com/in/michaelhtattersall/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
