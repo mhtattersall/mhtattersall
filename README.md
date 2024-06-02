@@ -1,8 +1,9 @@
-## Hi there 👋 I'm Michael, welcome to my GitHub
-
-### About Me 🚀 <a href="https://www.linkedin.com/in/michaelhtattersall/">
+<a href="https://www.linkedin.com/in/michaelhtattersall/">
   <img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a> 
+## Hi there 👋 I'm Michael, welcome to my GitHub
+
+### About Me 🚀 
 💻 I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> </br>
 🔭 I’m currently completing data engineering certificates with MIT xPro and AWS. </br> </br>
 👨🏼‍💻 I'm also a **professional football administrator** with a FIFA Masters and a former CEO of The National League in England. </br></br>
