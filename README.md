@@ -3,13 +3,10 @@
 ### About Me 🚀
 💻 I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> </br>
 🔭 I’m currently completing data engineering certificates with MIT xPro and AWS. </br> </br>
-
-- 👯 I’m looking to work as a data engineer to collaborate on quantitative finance projects
-- ⚡ Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev
-- 📫 How to reach me: mhtapple@gmail.com
-
+👯 Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev. </br> </br>
 👨🏼‍💻 I'm also a **professional football administrator** with a FIFA Masters and formerly CEO of The National League in England. </br></br>
 💬 Feel more than welcome to contact me if you are a sports management student in need of help with your studies! </br></br>
+📫 How to reach me: mhtapple@gmail.com </br> </br>
 
 
 
