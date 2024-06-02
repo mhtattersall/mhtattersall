@@ -1,4 +1,15 @@
-## Hi there 👋 I'm Michael, welcome to my GitHub.
+<hr />
+
+<a href="https://www.linkedin.com/in/mhtatterall/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:mhtapple@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br/>
+
+## Hi there 👋 I'm Michael, welcome to my GitHub
 
 ### About Me 🚀
 💻 I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> </br>
@@ -10,16 +21,7 @@
 
 
 
-<hr />
 
-<a href="https://www.linkedin.com/in/murilo-marques-b42760115/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:murilommms@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br/>
 
 ### About Me 🚀
 💻 I’m a **Full-stack developer** with a bachelor's degree in information systems. </br> </br>
