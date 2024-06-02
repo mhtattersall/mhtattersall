@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Michael, welcome to my GitHub 
 
 ## About Me 🚀   
-💻 &nbsp;&nbsp;I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> </br>
+💻 &nbsp;&nbsp;&nbsp;I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> </br>
 🔭 &nbsp;&nbsp;I’m currently completing data engineering certificates with MIT xPro and AWS. </br> </br>
 👨 &nbsp;&nbsp;I'm also a **professional football administrator** with a FIFA Masters and a former CEO of The National League in England. </br></br>
 👯 &nbsp;&nbsp;Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev to raise funds and awarenes for Prostate Cancer UK. </br> </br>
