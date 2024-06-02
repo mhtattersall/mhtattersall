@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Michael, welcome to my GitHub </br> </br>
-
-### About Me 🚀 </br> </br> 
+### Hi there 👋 I'm Michael, welcome to my GitHub 
+## About Me 🚀  
 💻 I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> </br>
 🔭 I’m currently completing data engineering certificates with MIT xPro and AWS. </br> </br>
 👨🏼‍💻 I'm also a **professional football administrator** with a FIFA Masters and a former CEO of The National League in England. </br></br>
