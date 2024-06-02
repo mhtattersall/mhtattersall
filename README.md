@@ -3,31 +3,14 @@
 ## About Me 🚀   
 I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> 
 I’m currently completing data engineering certificates with MIT xPro and AWS. </br> </br>
+Feel free to contact me if you want to collborate! </br></br>
 I'm also a **professional football administrator** with a FIFA Masters and a former CEO of The National League in England. </br>
-Feel more than welcome to contact me if you are a sports management student in need of help with your studies! </br></br>
+Feel more than welcome to contact me if you are a sports management student in need of soem guidance! </br></br>
 How to reach me: mhtapple@gmail.com <a href="https://www.linkedin.com/in/michaelhtattersall/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a> </br> </br>
 <b><i> Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev to raise funds and awarenes for Prostate Cancer UK.  I'm still recovering! <b><i> 
-
-
-
-
-
-### About Me 🚀
-💻 I’m a **Full-stack developer** with a bachelor's degree in information systems. </br> </br>
-👨🏼‍💻 I'm also a **technical instructor** and **advisor** who loves providing mentorship. </br></br>
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
-   
-    
-<br/>
-<hr />
-
-<div align="center">
-  <a href="https://github.com/MuriloMarquesSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloMarquesSantos&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMarquesSantos&layout=compact&langs_count=7&theme=gradient"/>
-</div>
+ 
 
 ## ⚡ Technologies I love and use
   
