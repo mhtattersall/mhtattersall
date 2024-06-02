@@ -5,10 +5,10 @@ I’m a **Data scientist and engineer** with a Master's degree in Data Sceince &
 I’m currently completing data engineering certificates with MIT xPro and AWS.  Please feel free to collaborate with me! </br></br>
 I'm also a **professional football administrator** with a FIFA Masters and a former CEO of The National League in England. </br>
 If you are a sports management student in need of some guidance please feel free to contact me for a chat! </br></br>
-How to reach me: mhtapple@gmail.com <a href="https://www.linkedin.com/in/michaelhtattersall/">
+How to reach me: mhtapple@gmail.com  Find out more about me: <a href="https://www.linkedin.com/in/michaelhtattersall/">
   <img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a> </br> 
-<b><i> Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev to raise funds and awarenes for Prostate Cancer UK.  I'm still recovering! <b><i> 
+<b><i> Fun fact: I completed 7 marathons in 7 days in 2018 with my mate Kev to raise funds and awarenes for Prostate Cancer UK.  I'm still recovering! <b><i> </br></br>
  
 
 ## ⚡ Technologies I love and use
