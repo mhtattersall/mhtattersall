@@ -2,7 +2,7 @@
 
 ## About Me 🚀   
 I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> 
-I’m currently completing data engineering certificates with MIT xPro and AWS. Please feel free to collaborate with me! </br></br>
+I’m currently completing data engineering certificates with MIT xPro and AWS.  Please feel free to collaborate with me! </br></br>
 I'm also a **professional football administrator** with a FIFA Masters and a former CEO of The National League in England. </br>
 If you are a sports management student in need of some guidance please feel free to contact me for a chat! </br></br>
 How to reach me: mhtapple@gmail.com <a href="https://www.linkedin.com/in/michaelhtattersall/">
