@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Michael, welcome to my GitHub 
 
 ## About Me 🚀 <a href="https://www.linkedin.com/in/michaelhtattersall/"><img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> </br>   
-I’m a **Data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> 
+I’m a **data scientist and engineer** with a Master's degree in Data Sceince & Artificial Intelligence. </br> 
 I’m completing data engineering certificates with MIT xPro and AWS.  Please feel free to collaborate with me! </br></br>
 I'm also a **professional football administrator** with a FIFA Masters and I'm a former CEO of The National League in England. </br>
 If you are a sports management student in need of some guidance please feel free to contact me! </br></br>
