@@ -7,7 +7,7 @@ I'm also a **professional football administrator** with a FIFA Masters and I'm a
 If you are a sports management student in need of some guidance please feel free to contact me! </br></br>
 How to reach me: mhtapple@gmail.com </br></br> 
 <b><i> Fun fact #1: I walked 7 marathons in 7 days in 2018 with my mate Kev for Prostate Cancer UK.  I'm still recovering! <b><i> </br>
-<b> Fun fact #2 : I love listening to Radio Bob: https://www.radiobob.de/ <b> </br> 
+<b> Fun fact #2 : I'm a big fan of Radio Bob, Germany's rock station: https://www.radiobob.de/ <b> </br> 
 
 ## ⚡ Technologies I love to use
   
