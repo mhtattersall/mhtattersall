@@ -9,7 +9,7 @@ How to reach me: mhtapple@gmail.com </br></br>
 <b><i> Fun fact #1: I walked 7 marathons in 7 days in 2018 with my mate Kev for Prostate Cancer UK.  I'm still recovering! <b><i> </br>
 <b> Fun fact #2 : I love listening to Radio Bob: https://www.radiobob.de/ <b> </br> 
 
-## ⚡ Technologies I love and use
+## ⚡ Technologies I love to use
   
 <div style="display: inline_block">
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
@@ -25,7 +25,7 @@ How to reach me: mhtapple@gmail.com </br></br>
 </div>
 
 
-## ⚡ Technologies I'm learning
+## ⚡ Technologies I'm learning to love
 
 <div style="display: inline_block">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
